@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This will be the last feature in version 2.0.0.1
+
+Example of fixing a bug and Closing the issue along with it.
+=======
+This will be the last feature in version 2.0.0.1
+>>>>>>> refs/remotes/origin/master
