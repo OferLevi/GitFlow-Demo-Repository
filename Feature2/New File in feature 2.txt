@@ -7,3 +7,6 @@ The last file I create in Feature2. Was created between the first Commit of Feat
 
 
 I'm adding to line as an example of a fix for a bug QA found (before release).
+
+
+THIS IS A NEW LINE 
